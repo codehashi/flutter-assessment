@@ -64,7 +64,14 @@ b. Why should we use each one?
 
 ## Exercise 5
 
-Open the [Pokedex](./Pokedex) project on [Android Studio](https://developer.android.com/studio). When you execute it you will see this screen:
+At the root folder you will see two projects:
+
+- [pokedex_android](./pokedex_android) which you open with [Android Studio](https://developer.android.com/studio)
+- [pokedex_flutter](./pokedex_flutter) which you can open with [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/)
+
+Choose one of them (or even both!) to answer this exercise.
+
+When you execute them you will see this screen:
 
 <div align="center">
     <img src="./images/project_initial.png" width="40%">
