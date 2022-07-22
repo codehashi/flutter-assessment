@@ -4,5 +4,9 @@ class Pokemon {
   final String imageUrl;
   final String type;
 
-  Pokemon({this.id, this.name, this.imageUrl, this.type});
+  Pokemon(
+      {required this.id,
+      required this.name,
+      required this.imageUrl,
+      required this.type});
 }

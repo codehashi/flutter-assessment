@@ -9,8 +9,8 @@ class App extends StatelessWidget {
         home: PokemonListPage(),
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-            brightness: Brightness.light,
-            primaryColor: Colors.blue,
-            accentColor: Colors.blue));
+          brightness: Brightness.light,
+          primaryColor: Colors.blue,
+        ));
   }
 }
